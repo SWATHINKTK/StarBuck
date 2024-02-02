@@ -1,6 +1,4 @@
-# Project Name
-
-StarBuck Clone
+# StarBuck Clone
 
 ## Description
 
